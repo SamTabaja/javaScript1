@@ -1,1 +1,2 @@
-# javaScript1
+# hyf-javascript1
+JavaScript
